@@ -1,0 +1,4 @@
+#Tue Dec 03 23:33:14 IST 2019
+base.0=C\:\\Users\\kallu\\AgPivot\\agpivotmobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
