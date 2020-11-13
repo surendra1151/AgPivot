@@ -8,6 +8,7 @@ Steps to download and run locally:
     2.adb reverse tcp:8081 tcp:8081
    4.To run in andriod or ios.Run these commands.
      1.react-native run-android or react-native run-ios 
+     
       */
    
    -> It  is a next-generation Farm Management software that helps agri-businesses plan, monitor, and analyze all activities on the farm.
@@ -15,6 +16,8 @@ Steps to download and run locally:
      Field preparation,Fumigation,planting,seed Cutting,shipping etc.
    ->These components are used for entrying the data of   employees  about what operations are done ,which fields they worked,which vechiles they used,
      what type of instruments used and so on.
-    ->These also records the previous data of emplyoees work time ,operations ,vechiles and so on.
+    ->These also records the previous data of emplyoees work time ,operations ,vehicles and so on.
+    
+    */
    
      
